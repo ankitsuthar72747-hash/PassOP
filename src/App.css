@@ -1,0 +1,8 @@
+.Toastify__toast {
+  background: #005921 !important; /* your green-600 */
+  color: white !important;
+}
+
+.Toastify__progress-bar {
+  background: #00ff6a !important; /* darker green for progress bar */
+}
