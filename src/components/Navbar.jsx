@@ -22,7 +22,9 @@ const Navbar = () => {
 
       <div className='invert hover:invert-0'>
         <button className='flex justify-between items-center'>
+           <a href="https://github.com/ankitsuthar72747-hash/PassOP" target='_blank'>
           <img className='md:w-10 w-10 md:p-1 p-[4px]' src="/icons/github.svg" alt="" />
+           </a>
           <span className='px-1 pr-2 md:text-lg text-xl  font-bold text-black'>GitHub</span>
         </button>
       </div>
